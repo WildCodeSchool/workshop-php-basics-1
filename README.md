@@ -47,3 +47,4 @@ Nous allons quitter le mode CLI (ne supprime pas ton travail effectu√© jusque l√
 
 
 ![](https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif)
+{: .text-center }
